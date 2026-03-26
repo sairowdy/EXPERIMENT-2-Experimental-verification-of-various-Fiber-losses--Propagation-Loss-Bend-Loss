@@ -23,19 +23,11 @@ To measure propagation and bending losses for two wavelengths in plastic fiber.
 V1/V2 = e [ -a (L1+L2 ) ] 
 - Bend fiber and record output vs diameter  
 
-**Tabulation:**
 
-Propagation Loss
+# Tabulation & Calculations:
 
-<img width="736" height="460" alt="image" src="https://github.com/user-attachments/assets/f7cd0488-f973-464c-b302-ef51297b2e48" />
+<img width="740" height="1280" alt="image" src="https://github.com/user-attachments/assets/ded3b1ba-12a8-4e07-8f1b-7acf2bb9619a" />
 
-Bending Loss
-
-<img width="796" height="508" alt="image" src="https://github.com/user-attachments/assets/d64ad912-8814-4ee4-9896-a86a2c06761b" />
-
-# Calculations:
-
-<img width="892" height="1280" alt="image" src="https://github.com/user-attachments/assets/db195496-e3a2-4e9c-9611-6d5c9b27a5c3" />
 
 **Result:**  
 
